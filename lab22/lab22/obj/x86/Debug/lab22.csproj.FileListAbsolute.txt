@@ -1,0 +1,5 @@
+E:\Work\C&C#&C++\labs\lab22\lab22\bin\Debug\lab22.exe
+E:\Work\C&C#&C++\labs\lab22\lab22\bin\Debug\lab22.pdb
+E:\Work\C&C#&C++\labs\lab22\lab22\obj\x86\Debug\lab22.exe
+E:\Work\C&C#&C++\labs\lab22\lab22\obj\x86\Debug\lab22.pdb
+E:\Work\C&C#&C++\labs\lab22\lab22\obj\x86\Debug\lab22.csprojResolveAssemblyReference.cache
